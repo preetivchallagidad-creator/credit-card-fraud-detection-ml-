@@ -1,0 +1,15 @@
+credit-card-fraud-detection/
+│
+├── data/
+│   └── creditcard.csv
+│
+├── models/
+│
+├── src/
+│   ├── train.py
+│   ├── predict.py
+│   └── utils.py
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
